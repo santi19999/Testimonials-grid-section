@@ -28,8 +28,8 @@ Los usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-! [] (./screenshot/captura-desktop.png)
-! [] (./screenshot/captura-movil.png)
+![](./screenshot/captura-desktop.png)
+![](./screenshot/captura-movil.png)
 
 
 ### Enlaces
