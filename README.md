@@ -53,7 +53,7 @@ Los usuarios deben ser capaces de:
   - Aprendí a configurar los diferentes tamaños y cantidad de columnas como filas. Es la primera vez que uso grid y se me facilitaron muchas cosas.
   Acá les dejo un fragmento del código:
 
-`` `css
+`` 
     .cards {
     width: 100%;
     display: grid;
@@ -63,7 +63,7 @@ Los usuarios deben ser capaces de:
     margin-bottom: 20px;
     text-align: left;
     }
-`` ``
+``
 
 ### Desarrollo continuo
 
