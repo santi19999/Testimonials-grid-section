@@ -5,9 +5,9 @@ Esta es una solución al [Sección de la cuadrícula de testimonios de Frontend 
 ## Tabla de contenido
 
 - [Descripción general](#Descripción-general)
-  - [El reto] (# el desafío)
+  - [El reto](#el-desafío)
   - [Captura de pantalla](#Captura-de-pantalla)
-  - [Enlaces](# Enlaces)
+  - [Enlaces](#Enlaces)
 - [Mi proceso](#mi-proceso)
   - [Construido con](#Construido-con)
   - [Qué aprendí](#Qué-aprendí)
