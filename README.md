@@ -1,19 +1,19 @@
 # Testimonials-grid-section
 
-Esta es una solución al [COMPONENTE DE INTRO con Formulario de registro de Formulario de Frontend Mentor] (https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).Frontend Mentor Los desafíos lo ayudan a mejorar sus habilidades de codificación al construir proyectos realistas.
+Esta es una solución al [Sección de la cuadrícula de testimonios de Frontend Mentor] (https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).Frontend Mentor Los desafíos lo ayudan a mejorar sus habilidades de codificación al construir proyectos realistas.
 
 ## Tabla de contenido
 
-- [Descripción general] (# Descripción general)
+- [Descripción general](#Descripción-general)
   - [El reto] (# el desafío)
-  - [Captura de pantalla] (# captura de pantalla)
-  - [Enlaces] (# Enlaces)
-- [Mi proceso] (# mi-proceso)
-  - [Construido con] (#Construido-con)
-  - [Qué aprendí] (#Qué-aprendí)
-  - [Desarrollo continuo] (#Desarrollo-continuo)
-  - [Recursos útiles] (#Recursos-útiles)
-- [Autor] (# Autor)
+  - [Captura de pantalla](#Captura-de-pantalla)
+  - [Enlaces](# Enlaces)
+- [Mi proceso](#mi-proceso)
+  - [Construido con](#Construido-con)
+  - [Qué aprendí](#Qué-aprendí)
+  - [Desarrollo continuo](#Desarrollo-continuo)
+  - [Recursos útiles](#Recursos-útiles)
+- [Autor](#Autor)
 ## descripción general
 
 ### EL Reto
