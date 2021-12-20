@@ -84,7 +84,7 @@ body {
     .text-destacated {
       color: var(--Blanco);
       font-size: 1rem;
-      p {
+      .span-text {
         margin: 5px 0 0 0;
         opacity: 0.5;
         font-size: 0.8rem;
@@ -112,7 +112,7 @@ body {
     .card-header {
       .text-destacated {
         font-size: 1.3rem;
-        p {
+        .span-text {
           font-size: 1rem;
         }
       }
