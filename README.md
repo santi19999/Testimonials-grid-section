@@ -14,7 +14,7 @@ Esta es una solución al [Sección de la cuadrícula de testimonios de Frontend 
   - [Desarrollo continuo](#Desarrollo-continuo)
   - [Recursos útiles](#Recursos-útiles)
 - [Autor](#Autor)
-## descripción general
+## Descripción general
 
 ### EL Reto
 
